@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "謎掛アリス（霜月はるかcover ver.）",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:58:21.019388Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "謎掛アリス(霜月はるかcover ver.)",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_謎掛アリス(霜月はるかcover_ver.)_霜月はるか.txt"
+    }
+  ]
+}
