@@ -1,0 +1,51 @@
+# 霜月はるか – 謎掛アリス（霜月はるかcover ver.）
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Its time for you to "wonderland"
+道化の紳士が　手招いている
+渡された鍵が　合うのはひとつ
+「探してごらん、アナタの為。
+真実を知りたいなら。其れがどのようなリアルで在っ
+たとしても。
+覚悟があるのなら往きなさい。全て自己責任。」
+「さぁおいでなさい、見せておくれ！」
+奇怪な仮面が薄笑う
+透明な壁の後ろ　『だしてだして...』と誰かの声が
+する
+始まりは既に　扉を開いたその時に
+「謎掛けに気付くかな？　うさぎ穴にはご注意
+を...」
+There're riddles riddles all around
+懐古に郷愁　摩訶不思議かな
+赤い鬼灯が　枯れては咲いた
+「真実までお急ぎなら、奥の間へお行きなさい。
+安全は保証しかねますが、良ければ...」
+「さぁ皆さん！お待ちかねのヒントを差し上げましょ
+うかね。」
+進む道　形を変え　最後に往くべき先を示すだろう
+戻るか進むか　視えるものが全てではない
+「正解の扉まで　喰われぬようご注意を。」
+奇妙なところね
+溜息をついたその刹那に...
+Oh Alice when will you learn
+Passing the point of no return
+Curiosity wins
+Why choose the path of meaningless sins
+Truth may lead into pain
+What else can you gain ?
+But you will keep on looking
+Head for what you believe in
+Open the door and see your "wonderland"
+視界の端を過ぎった　白兎(うさぎ)の影追った
+さぁ始まった！好奇心が、吉と出るか凶と出るかな。
+奥の間へ踏み込めば　床は形を変えて黒い穴へ
+瞬く間にほら　真っ逆さまに落ちていくよ
+鍵を手に叫んでも　誰も助けちゃくれないよ
+うさぎ穴……その先は丸い月か、出口か、時を刻まな
+い世界か
+トランプ遊びをして帰りをお待ちしてます
+存分に楽しんで。どうぞいってらっしゃいませ...
+Its time for you to "wonderland"
+```
